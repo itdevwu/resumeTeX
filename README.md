@@ -50,7 +50,7 @@ How to solve this dilemma?
       - [x] Palatino style
       - [x] Times style (Times New Roman alike)
     - [ ] Sans-serif (yet to be tested, you may try)
-  - [x] Industrual standard font sizes
+  - [x] Industrial standard font sizes
   - [x] FontAwesome icons
   - [x] Colored text
     - [x] NTU Color Preset
